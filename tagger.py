@@ -98,10 +98,10 @@ viterbi = 0
 wordsList = 0
 
 # clear output file
-open('output.txt', 'w').close()
+open('oldOutput.txt', 'w').close()
 
 # tagging algorithm
-with open('output.txt', 'a') as f:
+with open('oldOutput.txt', 'a') as f:
     # iterate through each word
     for word in lines:
         orig = word.strip()  # track original word with \n
