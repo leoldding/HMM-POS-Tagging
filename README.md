@@ -26,6 +26,5 @@ The *optimizedTagger.py* output is stored in *output.txt*.
 
 ## Runtime
 *tagger.py* completed its task in over 12 hours.
-*optimizedTagger.py* completes its task in just over a minute.
-*IMPORTANT TO GO BACK AND LOOK AT OLD CODE*
+*optimizedTagger.py* completed its task in just over a minute.
 
